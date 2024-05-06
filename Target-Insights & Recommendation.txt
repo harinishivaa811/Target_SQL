@@ -1,0 +1,30 @@
+Analyzing Target's Operations in Brazil: SQL Business Case
+
+Insights :
+
+1. The orders were placed between 4th September, 2016 to 17th October, 2018.
+2. Customers have ordered from 27 States and 4119 Cities.
+3. There is a growing trend in the number of orders placed from 2016 to 2018.
+Even though there is an increase and decrease during the months of a year, the no. of orders placed is increasing on yearly basis.
+4. As observed Peak count with 1 has the highest order count in a month of a year.
+5. Brazilian customers mostly place their orders at Afternoon. Less orders are placed during the Dawn.
+6. Customers have been distributed widely in many States. 
+7. There is a 136.98% Increase in the cost of orders from year 2017 to 2018 as shown below.
+8. Orders in State AM have been delivered fastest as compared to estimated delivery.
+9. In Year 2016, 254 orders have been placed with credit card in the month of October. And the Least orders were placed with Debit Card. 
+10. In Year 2017, 583 orders have been placed with credit card in the month of January. Other orders has been placed with other Payment type.
+
+
+Recommendation:
+
+1. Geographic Targeting: Utilize geographic insights to tailor marketing campaigns and promotions, focusing on regions with high order frequency and revenue generation.
+2. Supply Chain Optimization: Optimize supply chain logistics based on geographic distribution of orders to minimize shipping times and costs.
+3. Capacity Planning and Scalability: Anticipate future demand trends and proactively adjust resources and infrastructure to meet growing customer expectations.
+4. Optimized Resource Allocation: Adjust staffing schedules and operational resources to align with peak order times in the afternoon.
+Consider offering incentives or promotions during off-peak hours to encourage orders during dawn and balance order volume throughout the day.
+5. Regional Targeting: Implement localized campaigns and offers to effectively engage customers across different regions and maximize sales potential.
+6. Cost Management: Investigate the factors contributing to the significant increase (136.98%) in order costs from 2017 to 2018.
+7. Best Practice Analysis: Orders in State AM have been delivered fastest as compared to estimated delivery.Implement these best practices across other states to improve overall delivery performance and enhance customer satisfaction.
+8. Payment Method Analysis: Compare the distribution of orders placed with credit cards versus other payment types to understand customer preferences and trends.
+9. Promotional Strategies: Develop targeted marketing campaigns and promotions to highlight the benefits of installment options with higher order counts.
+10. Product Pricing and Affordability: Adjust product pricing or introduce pricing tiers to accommodate different installment preferences and enhance affordability for customers.
